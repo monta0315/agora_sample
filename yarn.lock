@@ -1674,6 +1674,13 @@
   dependencies:
     "@babel/runtime" "^7.12.5"
 
+"@types/agora-rtc-sdk@^3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@types/agora-rtc-sdk/-/agora-rtc-sdk-3.2.0.tgz#63676973b6fdb144f44d2fa66d98a9efb10b7041"
+  integrity sha512-a45UnqSvqx+N0baGQado51kyth097HfiSmdignVfFhA+4RoHgmt3WSkQUGncPoZrVWJD8/xKkd9vmX8lJ5iKAw==
+  dependencies:
+    agora-rtc-sdk "*"
+
 "@types/anymatch@*":
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/@types/anymatch/-/anymatch-1.3.1.tgz#336badc1beecb9dacc38bea2cf32adf627a8421a"
@@ -2339,6 +2346,11 @@ agora-rtc-sdk-ng@^4.7.0:
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/agora-rtc-sdk-ng/-/agora-rtc-sdk-ng-4.7.0.tgz#c9179b9dc8a38bc38aedc0d4f48d153babe079bb"
   integrity sha512-YmMy1CtppHwuY0RLIwJFOChSdves95uB00AuqzVnxuvCq/qP7xLGb+aLtBZR4uIu6ybYK/wRel3T3OkJptwWdg==
+
+agora-rtc-sdk@*:
+  version "3.6.4"
+  resolved "https://registry.yarnpkg.com/agora-rtc-sdk/-/agora-rtc-sdk-3.6.4.tgz#af8565651ed2746167566a3a58188579ed94958e"
+  integrity sha512-2Uxlzc1BEusAtGA3A4BgjgkCHXnGj/WqbIBp6uJSZSbN4L2cyQ7/EgzklUpDqjKCt2yc0HQqd/BPVbXDxjTsgA==
 
 ajv-errors@^1.0.0:
   version "1.0.1"
